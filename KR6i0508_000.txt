@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說信解智力經
+#+DATE: 2015-08-30 20:21:16.479102
+#+PROPERTY: JUAN 0
